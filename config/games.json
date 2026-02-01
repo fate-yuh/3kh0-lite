@@ -35,6 +35,11 @@
     "title": "Among Us"
   },
   {
+    "link": "projects/among-us/index.html",
+    "imgSrc": "projects/among-us/red.png",
+    "title": "Block Blast"
+  },
+  {
     "link": "projects/avalanche/index.html",
     "imgSrc": "projects/avalanche/avalanche.png",
     "title": "Avalanche"
